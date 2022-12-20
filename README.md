@@ -1,4 +1,4 @@
-# COSC33360-Assignment-2
+# COSC33360 Assignment 2
 
 Objective:
 This assignment will introduce you to interprocess communication mechanisms in UNIX using sockets.
